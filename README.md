@@ -27,7 +27,7 @@ A relentless, lightweight, terminal-based task checker and deadline nagger for W
 
 Most to-do apps require opening a heavy browser tab, signing up for an account, or waiting 10 seconds for an Electron app to launch.
 
-**DeadlineGremlin** is designed for developers, hackers, and terminal lovers:
+**DeadlineGremlin** is designed for developers and terminal lovers:
 - **Instant**: Add a task in 2 seconds right from PowerShell or Command Prompt.
 - **Natural Language**: Type deadlines like `"in 2 hours"`, `"tomorrow 9am"`, or `"tonight"`.
 - **Persistent Across Reboots**: Shut down your laptop for the weekend? When you boot back up on Monday, your tasks and background reminders are right where you left them.
